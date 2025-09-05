@@ -9,5 +9,6 @@ public class Main {
             sum += i;
         }
         System.out.println("Result: " + sum);
+        System.out.println("__________________________");
     }
 }
